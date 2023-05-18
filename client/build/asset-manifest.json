@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1b6baacb.css",
+    "main.js": "/static/js/main.62df2478.js",
+    "static/media/suv-inside.jpg": "/static/media/suv-inside.b4c4d890dd49413d5f81.jpg",
+    "static/media/new-trip.jpg": "/static/media/new-trip.3d4774f2483e40706adb.jpg",
+    "static/media/my-trips.jpg": "/static/media/my-trips.7dd4911025ed4ee09697.jpg",
+    "static/media/suv.png": "/static/media/suv.7ecb6c91453822fe59a8.png",
+    "static/media/suv-model.jpeg": "/static/media/suv-model.c906404b9bed8b3f1f9a.jpeg",
+    "index.html": "/index.html",
+    "main.1b6baacb.css.map": "/static/css/main.1b6baacb.css.map",
+    "main.62df2478.js.map": "/static/js/main.62df2478.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b6baacb.css",
+    "static/js/main.62df2478.js"
+  ]
+}

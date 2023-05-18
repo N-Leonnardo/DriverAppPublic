@@ -1,0 +1,10 @@
+.box-text {
+  overflow: hidden;
+  display: inline-block;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.w-rem-46 {
+  width: 46rem;
+}
